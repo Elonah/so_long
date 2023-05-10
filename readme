@@ -1,0 +1,13 @@
+parser la map
+associer un jpg a chaque nombre
+
+ouvrir une fenetre
+changer le nom
+essayer de faire que ca termine qund la croix ou q
+
+afficher une ligne droite(creer image, mettre pixel, mettre image sur fenetre)
+changer la couleur de la feetre
+puis une diagonale
+faire une map avec que des couleur unie
+(calculer la taille d une case, choisis une couleur par nombre, essayer d afficher la map )
+gerer les mouvement
